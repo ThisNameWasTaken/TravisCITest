@@ -1,7 +1,7 @@
 {
   "name": "mocha-travisci",
   "version": "1.0.0",
-  "description": "",
+  "description": "TravisCI boilerplate",
   "main": "js/sum.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha --require babel-polyfill --require babel-register || true"
   },
-  "author": "Adrian Dinca",
+  "author": "Adrian Florin Dinca",
   "license": "MIT",
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
